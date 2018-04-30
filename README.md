@@ -44,5 +44,5 @@ public HashSet<Point> coskqType3Appro(double query_x, double query_y, HashSet<St
 public HashSet<Point> coskqType3Exact(double query_x, double query_y, HashSet<String> keywords);
 ```
 ## Meta
-Wang Jikun ¨C [@WangJikun](https://twitter.com/dbader_org) ¨C wagjk@hku.com
+Wang Jikun [@WangJikun](https://twitter.com/dbader_org) wagjk@hku.com
 [https://github.com/WagJK/SpaceKey-Implementations]
